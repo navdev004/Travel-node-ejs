@@ -1,0 +1,21 @@
+.trip-img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+.card-text{
+    color: gray;
+}
+.imageCover2{
+    display: none;
+
+}
+
+.card:hover .imageCover2{
+    display: block;
+
+}
+.card:hover .imageCover1{
+   display: none;
+
+}

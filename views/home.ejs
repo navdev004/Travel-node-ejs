@@ -1,0 +1,33 @@
+<%-include('partials/header') -%>
+
+
+<div class="container my-5">
+    <div class="row row-cols-1 row-cols-md-3 g-4 py-3">
+        <% tours.forEach((t)=>{ %>
+            <div class="col">
+             <div class="card h-100">
+               <img src=<%=t.imageCover %> class="card-img-top trip-img imageCover1" alt="imageCover">
+               <img src=<%=t.imageCover2 %> class="card-img-top trip-img imageCover2" alt="imageCover">
+
+               <div class="card-body">
+                 <h5 class="card-title"><%= t.name %></h5>
+                 <p class="card-text"><%= t.summary %></p>
+                 <p class="card-text">$<%= t.price %></p>
+             <div class="d-flex justify-content-between">
+              <p class="card-text"><%= t.ratingsAverage %> Rating</p>
+              <p class="card-text">Max Group Size <%= t.maxGroupSize %> </p>
+             </div>
+
+
+               </div>
+             </div>
+           </div>
+    <% }) %>
+       
+      </div>
+  
+</div>
+  
+
+
+<%-include('partials/footer') -%>

@@ -1,0 +1,60 @@
+[
+    {
+      "id": 0,
+      "name": "The Forest Hiker",
+      "maxGroupSize": 25,
+      "ratingsAverage": 4.7,
+      "price": 397,
+      "summary": "Breathtaking hike through the Canadian Banff National Park",
+      "imageCover": "https://images.pexels.com/photos/8968778/pexels-photo-8968778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "imageCover2": "https://images.pexels.com/photos/2108845/pexels-photo-2108845.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    
+    },
+    {
+      "id": 1,
+      "name": "The Sea Explorer",
+      "maxGroupSize": 15,
+      "ratingsAverage": 4.8,
+      "price": 497,
+      "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+      "imageCover": "https://images.pexels.com/photos/6961668/pexels-photo-6961668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "imageCover2": "https://images.pexels.com/photos/7759300/pexels-photo-7759300.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+    {
+      "id": 2,
+      "name": "The Snow Adventurer",
+      "maxGroupSize": 10,
+      "ratingsAverage": 4.5,
+      "price": 997,
+      "summary": "Exciting adventure in the snow with snowboarding and skiing",
+      "imageCover": "https://images.pexels.com/photos/7505034/pexels-photo-7505034.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "imageCover2": "https://images.pexels.com/photos/6102706/pexels-photo-6102706.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+    {
+      "id": 3,
+      "name": "The City Wanderer",
+      "maxGroupSize": 20,
+      "ratingsAverage": 4.6,
+      "price": 1197,
+      "summary": "Living the life of Wanderlust in the US' most beatiful cities",
+      "imageCover": "https://images.pexels.com/photos/2764743/pexels-photo-2764743.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "imageCover2": "https://images.pexels.com/photos/1906879/pexels-photo-1906879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+    {
+      "id": 4,
+      "name": "The Park Camper",
+      "maxGroupSize": 15,
+      "ratingsAverage": 4.9,
+      "price": 1497,
+      "summary": "Breathing in Nature in America's most spectacular National Parks",
+      "imageCover": "https://images.pexels.com/photos/2819554/pexels-photo-2819554.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "imageCover2": "https://images.pexels.com/photos/5052151/pexels-photo-5052151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    }
+   
+
+]
